@@ -1,0 +1,60 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+}
+
+/* Impact Section */
+#impact {
+  padding: 20px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+#impact h1 {
+  font-size: 2rem;
+  color: #4caf50;
+}
+
+#impact p {
+  font-size: 1.2rem;
+  margin: 10px 0;
+  line-height: 1.6;
+}
+
+#impact .button {
+  display: inline-block;
+  margin: 20px 0;
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+#impact .button:hover {
+  background-color: #45a049;
+}
+
+/* Supporters Section */
+#supporters {
+  margin-top: 30px;
+}
+
+#supporters h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+#supporters ul {
+  list-style: none;
+  padding: 0;
+}
+
+#supporters ul li {
+  font-size: 1.2rem;
+  margin: 5px 0;
+}
